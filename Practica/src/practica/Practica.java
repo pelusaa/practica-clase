@@ -16,6 +16,7 @@ public class Practica {
      */
     public static void main(String[] args) {
         System.out.println("Esto es una practica");
+        System.out.println("El segundo cambio viene ahora");
     }
     
 }
